@@ -35,7 +35,7 @@ http://localhost:8080/api/v1
 All endpoints have been tested using **Postman**.
 
 # Live API:
-https://restaurant-backend.onrender.com
+https://restaurant-food-ordering-backend-api.onrender.com/
 
 ## 👨‍💻 Author
 
